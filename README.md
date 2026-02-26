@@ -31,8 +31,8 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 - Visualize data with graph, bar, wordcloud
 5. Saving
 - Save output into csv and image
-
-Project Structure:
+```
+##Project Structure:
 tokopedia-product-review-data-pipeline/
 |-data/
    |-raw/
@@ -48,7 +48,7 @@ tokopedia-product-review-data-pipeline/
 |-config.json
 |-README.md
 |-requirements.txt
-
+```
 How to Run:
 (make sure to have the dataset and python installed before continue)
 1. Install dependencies
