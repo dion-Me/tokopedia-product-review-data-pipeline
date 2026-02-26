@@ -1,0 +1,6 @@
+{
+  "input_path": "data/raw/tokopedia-product-reviews-2019.csv",
+  "output_path": "output",
+  "min_review_threshold": 10,
+  "min_sales_threshold": 1
+}
