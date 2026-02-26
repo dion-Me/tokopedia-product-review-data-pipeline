@@ -37,13 +37,22 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 ## Sample Output
 
 Rating Distribution
-<img src="rating_distribution.png" width="600">
+
+<p align="center">
+  <img src="rating_distribution.png" width="600">
+</p>
 
 Top 10 Selling Products
-<img src="top_10_products.png" width="600">
+
+<p align="center">
+  <img src="top_10_products.png" width="600">
+</p>
 
 Review Wordcloud
-<img src="wordcloud.png" width="600">
+
+<p align="center">
+  <img src="wordcloud.png" width="600">
+</p>
 
 
 ## Project Structure
