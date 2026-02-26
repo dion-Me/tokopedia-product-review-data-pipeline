@@ -37,8 +37,10 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 ## Sample Output
 1. Rating Distribution
 ![Rating Distribution](rating_distribution.png)
+
 2. Top 10 Product
 ![Top 10 Product](top_10_products.png)
+
 3. Review Wordcloud
 ![Review Wordcloud](wordcloud.png)
 
@@ -102,7 +104,7 @@ Ready for database extension
 ## Tech Stack
 - Python
 - Libraries: Pandas, Matplotlib, Wordcloud
-Dataset source: (https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews/data)
+- Dataset source: (https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews/data)
 
 ## Closing
 - This project demonstrates the ability to design structured data workflows
