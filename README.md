@@ -34,7 +34,7 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 5. Saving
 - Save output into csv and image
 
-## Sample OUtput
+## Sample Output
 1. Rating Distribution
 ![Rating Distribution](rating_distribution.png)
 2. Top 10 Product
