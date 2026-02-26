@@ -36,13 +36,14 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 
 ## Sample Output
 
-1. Top 10 Product
-![Top 10 Product](top_10_products.png)
-2. Review Wordcloud
-![Review Wordcloud](wordcloud.png)
-3. Distribution of Rating
+Rating Distribution
+<img src="rating_distribution.png" width="600">
 
-![Review Wordcloud](rating_distribution.png)
+Top 10 Selling Products
+<img src="top_10_products.png" width="600">
+
+Review Wordcloud
+<img src="wordcloud.png" width="600">
 
 
 ## Project Structure
