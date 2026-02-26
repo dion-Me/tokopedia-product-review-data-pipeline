@@ -1,4 +1,4 @@
-#Modular Automated E-commerce Review Data Pipeline for Business Insight
+# Modular Automated E-commerce Review Data Pipeline for Business Insight
 
 "A modular data pipeline that process raw review data from e-commerce into meaningful business insight through automated extraction, transformation, analysis, visualization, and saving"
 
@@ -11,10 +11,10 @@ This project separates responsibilities into layers:
 - Saving result
 The design is reproducible and designed with scalability in mind.
 
-##📌 Overview
+## Overview
 E-commerce platforms generate thousands of customer review daily. Making decision hard to do manually with only raw data. This project simulates how a Data Engineer builds system to convert those raw data into visualized insight for end-user.
 
-##🏗 Pipeline Architecture
+## Pipeline Architecture
 ```
 Extract -> Transform -> Analyze -> Visualize -> Saving
 ```
@@ -34,7 +34,7 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 5. Saving
 - Save output into csv and image
 
-##📊 Sample OUtput
+## Sample OUtput
 1. Rating Distribution
 ![Rating Distribution](rating_distribution.png)
 2. Top 10 Product
@@ -42,7 +42,7 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 3. Review Wordcloud
 ![Review Wordcloud](wordcloud.png)
 
-##📂 Project Structure
+## Project Structure
 ```
 tokopedia-product-review-data-pipeline/
 |-data/
@@ -61,7 +61,7 @@ tokopedia-product-review-data-pipeline/
 |-requirements.txt
 ```
 
-##⚙️ How to Run
+## How to Run
 (make sure to have the dataset and python installed before continue)
 1. Install dependencies
 ```
@@ -77,7 +77,7 @@ or with custom config
 python -m src.pipeline config_dev.json 
 ```
 
-##📦 Output
+## Output
 These files can be used for further analysis such as power BI, reporting tools, database, or manually by Internal Teams
 Structured Data:
 - cleaned_data.csv
@@ -92,31 +92,31 @@ Image:
 - category_avg_rating.png
 - wordcloud.png
 
-##🌟 Key Highlight
+## Key Highlight
 Moduler package architecture
 Config driven execution
 Separation of concerns per layer
 Portable execution as module using python -m
 Ready for database extension
 
-##🛠 Tech Stack
+## Tech Stack
 - Python
 - Libraries: Pandas, Matplotlib, Wordcloud
 Dataset source: (https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews/data)
 
-##🎯 Closing
+## Closing
 - This project demonstrates the ability to design structured data workflows
 - Separate processing layers
 - Build reusable and scalable pipelines
 - Turn raw data into meaningful business insight
 - Run localy
 
-##⚠️ Limitation
+## Limitation
 - Pipeline process not in real-time
 - Local memory process
 - Simple ranking logic, no advance scoring
 
-##⭐ Future Improvement
+## Future Improvement
 - Add database
 - Add unit testing
 - Containerize using Docker
