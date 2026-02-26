@@ -34,7 +34,6 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 
 Project Structure:
 tokopedia-product-review-data-pipeline/
-
 |-data/
    |-raw/
       |-tokopedia-product-reviews-2019.csv
