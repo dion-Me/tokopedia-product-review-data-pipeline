@@ -41,6 +41,7 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 2. Review Wordcloud
 ![Review Wordcloud](wordcloud.png)
 3. Distribution of Rating
+
 ![Review Wordcloud](rating_distribution.png)
 
 
