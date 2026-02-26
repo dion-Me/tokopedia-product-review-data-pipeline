@@ -40,6 +40,9 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 ![Top 10 Product](top_10_products.png)
 2. Review Wordcloud
 ![Review Wordcloud](wordcloud.png)
+3. Distribution of Rating
+![Review Wordcloud](rating_distribution.png)
+
 
 ## Project Structure
 ```
