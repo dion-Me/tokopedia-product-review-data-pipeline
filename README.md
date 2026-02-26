@@ -36,19 +36,19 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 
 ## Sample Output
 
-Rating Distribution
+- Rating Distribution
 
 <p align="center">
   <img src="rating_distribution.png" width="600">
 </p>
 
-Top 10 Selling Products
+- Top 10 Selling Products
 
 <p align="center">
   <img src="top_10_products.png" width="600">
 </p>
 
-Review Wordcloud
+- Review Wordcloud
 
 <p align="center">
   <img src="wordcloud.png" width="600">
