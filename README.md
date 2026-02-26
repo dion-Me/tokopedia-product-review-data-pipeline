@@ -35,14 +35,15 @@ Extract -> Transform -> Analyze -> Visualize -> Saving
 - Save output into csv and image
 
 ## Sample Output
-1. Rating Distribution
-![Rating Distribution](rating_distribution.png)
 -
 2. Top 10 Product
 ![Top 10 Product](top_10_products.png)
 -
 3. Review Wordcloud
 ![Review Wordcloud](wordcloud.png)
+
+1. Rating Distribution
+![Rating Distribution](rating_distribution.png)
 
 ## Project Structure
 ```
