@@ -106,7 +106,7 @@ Image:
 - wordcloud.png
 
 ## Key Highlight
-Moduler package architecture
+Modular package architecture
 Config driven execution
 Separation of concerns per layer
 Portable execution as module using python -m
