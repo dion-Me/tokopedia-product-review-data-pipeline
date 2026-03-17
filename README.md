@@ -106,11 +106,11 @@ Image:
 - wordcloud.png
 
 ## Key Highlight
-Modular package architecture
-Config driven execution
-Separation of concerns per layer
-Portable execution as module using python -m
-Ready for database extension
+- Modular package architecture
+- Config driven execution
+- Separation of concerns per layer
+- Portable execution as module using python -m
+- Ready for database extension
 
 ## Tech Stack
 - Python
